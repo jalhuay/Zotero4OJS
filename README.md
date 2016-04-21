@@ -1,11 +1,11 @@
 // +-----------------------------------------------------------------------+
-// | Autor: Joel Alhuay Q. <joel.alhuay@unmsm.edu.pe>, @joel_alway	   |
+// | Autor: Joel Alhuay Q. <joel.alhuay@unmsm.edu.pe>, @joel_alway    	   |
 // +-----------------------------------------------------------------------+
 // | Descripción: Este es un archivo que contiene widget en javascript que |
 // | permite que los artículos de una revista gestionada en OJS puedan ser |
 // | guardadas directamente en Zotero.                                     |
 // +-----------------------------------------------------------------------+
-// | Versión: 1.0, 21-04-2016.						   |
+// | Versión: 1.0, 21-04-2016.					                              	   |
 // +-----------------------------------------------------------------------+
 
 Requerimientos:
